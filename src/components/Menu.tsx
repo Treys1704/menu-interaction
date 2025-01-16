@@ -15,7 +15,7 @@ const Menu = () => {
 
     const menuVariants = {
         closed: {
-            width: '301px',
+            width: '300px',
             height: '60px',
             backgroundColor: 'rgba(0, 0, 0, 0.5)',
             backdropFilter: 'blur(10px)',
